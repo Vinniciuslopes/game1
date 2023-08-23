@@ -1,16 +1,43 @@
  
-   
+ *{
+    margin : 0;
+    padding: 0;
+ }
 
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    height: 100vw;
-    width: 100vh;
-    background-color: aqua;
+ body {
+    min-height: 100vh;
     display: flex;
-    flex-direction: row;
-    justify-content: center;
     align-items: center;
-}
+    justify-content: center;
+    background-color: rgb(0, 157, 255);
+ }
 
+ #content {
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #fff;
+    text-align: center;
+    
+ }
+ h1 {
+    font-size: 30px;
+    font-weight:  400;
+    color: #333;
+    padding: 30px;
+ }
 
+ p {
+    color:#333;
 
+ }
+ input {
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 30px;
+ }
+
+ button {
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 30px;
+ }

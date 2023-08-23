@@ -28,7 +28,7 @@ function verifyNumber() {
         alert('number to be found is greater');  
     }
     else{
-        alert('Congratulations you win on your third attempt !!')
+        alert('Congratulations you win !!')
     }
 
 } 
