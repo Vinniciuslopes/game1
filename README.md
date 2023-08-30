@@ -1,4 +1,4 @@
-# [Guess the number!]()
+# [Guess the number!](https://vinniciuslopes.github.io/game1/)
 
 Geuss the nember is a funny and exciting game. The player has to guess what the number is from 0 to 100.
 
@@ -24,7 +24,8 @@ Geuss the nember is a funny and exciting game. The player has to guess what the 
 - Accessibility  
 
   - I confirmed  that colors and fonts chosen are easy and accessible.
- 
+ <img width="780" alt="Screenshot 2023-08-30 at 14 41 32" src="https://github.com/Vinniciuslopes/game1/assets/131663952/8473fffb-a825-4324-91dc-4678fe083787">
+
      ### **Deployment**
 
 - Github was used to deploying this page.
