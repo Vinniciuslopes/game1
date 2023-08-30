@@ -25,8 +25,24 @@ Geuss the nember is a funny and exciting game. The player has to guess what the 
 
   - I confirmed  that colors and fonts chosen are easy and accessible.
  
+     ### **Deployment**
 
-<img width="780" alt="Screenshot 2023-08-30 at 14 41 32" src="https://github.com/Vinniciuslopes/game1/assets/131663952/48a60939-0349-4710-b9cd-fe4494a0e0a4">
+- Github was used to deploying this page.
+  - In the github repository, navigate to setting tab.
+  - On the left side there are several tabs, scrolled  down and click on page.
+  - Looked for branch and selected main.
+
+The link can be found here 
+
+### **Credits**
+
+### **Content**
+
+- Some codes for this game was take from https://www.youtube.com/watch?v=ec8vSKJuZTk&t=3252s
+- The idea for this game was taken from https://www.codingnepalweb.com/best-javascript-games-for-beginners/
+ 
+
+
 
 
 
