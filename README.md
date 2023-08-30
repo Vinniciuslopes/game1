@@ -6,7 +6,7 @@ Geuss the nember is a funny and exciting game. The player has to guess what the 
 ### **Features**
 
 - There is an input where players should type in their guessed number.
-- There is a send(to check the player's number ) and a reload(to sart playing again) button .
+- There is a send button(to check the player's number ) and a reload button (to sart playing again).
 - The colors were chosen to contrast the background color.
 
 
